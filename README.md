@@ -36,7 +36,7 @@ MailCleaner/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AnishChhetry/MailCleaner.git
    cd MailCleaner
    ```
 2. **Provision infrastructure**
